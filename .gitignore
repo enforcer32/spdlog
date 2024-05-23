@@ -1,7 +1,7 @@
 # Auto generated files
 [Dd]ebug/
 [Rr]elease/
-build/*
+Build/*
 *.slo
 *.lo
 *.o
@@ -93,6 +93,3 @@ cmake-build-*/
 # macos
 *.DS_store
 *.xcodeproj/
-/.vs
-/out/build
-/CMakeSettings.json
